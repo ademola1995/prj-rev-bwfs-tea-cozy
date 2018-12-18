@@ -1,0 +1,83 @@
+body{
+    background-color:black;
+
+}
+
+
+.logo img{
+ height:50px;
+
+
+}
+
+.header{
+    border-bottom:1px solid seashell;
+   
+}
+
+.text{
+    color:seashell;
+    text-align: center;
+   
+    padding: 300px;
+    background-image:url("/Users/adem/Desktop/projects/tea cozy/images/img-mission-background.jpg");
+ 
+    
+    
+}
+
+
+
+.secondpart{
+    color:seashell;
+    text-align:center;
+}
+ 
+ .imagecontainer img{
+    height:200px;
+    width:300px;
+    display: flex;
+     margin:15px;
+     align-items:center;
+   
+
+}
+
+.imagecontainer h2{
+    color:seashell;
+
+   
+}
+
+.navigation{
+    text-decoration: underline;
+    display:flex;
+    justify-content:flex-end;
+    font-family: Helvetica;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+    padding-left:300px;
+    top: 0;
+    left: 0;
+ 
+    Z-index:2;
+
+
+   }
+
+
+
+
+.bigimage{
+    display:inline-flex;
+    padding:40px;
+    text-align:center;
+    
+}
+
+.bigimage img{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}

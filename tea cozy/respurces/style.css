@@ -1,0 +1,176 @@
+body{
+    background-color:black;
+
+}
+
+
+.logo img{
+ height:50px;
+
+
+
+}
+
+.header{
+    border-bottom:1px solid seashell;
+   
+}
+
+
+
+.text{
+    color:seashell;
+    text-align: center;
+    padding: 300px;
+
+   
+   
+   }
+
+
+
+.secondpart{
+    color:seashell;
+    text-align:center;
+}
+ 
+ .imagecontainer img{
+    height:200px;
+    width:300px;
+    display: flex;
+     margin:15px;
+     align-items:center;
+   
+
+}
+
+.imagecontainer h2{
+    color:seashell;
+
+   
+}
+
+.navigation{
+    text-decoration: underline;
+    display:flex;
+    justify-content:flex-end;
+    font-family: Helvetica;
+    font-size: 22px;
+    
+    
+    
+}
+
+#black{
+    background-image:url("../teacozy/images/img-mission-background.jpg");
+    margin:30px;
+    background-color:black;
+   
+}
+
+
+.bigimage{
+    display:inline-flex;
+    padding:40px;
+    text-align:center;
+    flex-wrap:wrap;
+    justify-content: center;
+
+    
+}
+
+.bigimage img{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+.box2 h2{
+    color:seashell;
+    text-align:center;
+    padding:40px;
+    height:500px;
+    width:1400px;
+}
+
+
+.downtown{
+    color: seashell;
+    
+}
+
+.locationrow{
+    color:seashell;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+     justify-content: space-between;
+     width:1100px;
+    
+  
+   
+}
+
+.section2{
+    background-image:url("../teacozy/images/img-locations-background.jpg");
+   height: 500px;
+   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+   margin-top: 20px;
+    width:1100px;
+    display:flex;
+    margin-left:30px;
+    margin-right:30px;
+   
+  
+
+
+}
+
+.locationrow{
+    background-color:black;
+}
+
+.container{
+  display:flex;
+    align-items:center;
+    flex-direction: column;
+}
+
+
+.footer{
+    color:seashell;
+    text-align: center;
+}
+
+.container2 h2,h4{
+    background-color:black;
+    height:68px;
+    
+   
+}
+
+nav span{
+    display: inline;
+  padding: 20px 10px;
+  
+}
+   
+.container3{
+    display:flex;
+   
+}
+  
+
+
+
+
+
+
+.footerelement{
+    color:seashell;
+   margin:20px;
+  
+}
